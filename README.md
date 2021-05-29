@@ -1,7 +1,7 @@
 # Consumer-Loan-Assistant
  # Abstract
 This project will help you get a handle on consumer debt. The Consumer Loan Assistant Project you would build computes payments and loan terms given balance and interest information. We look at focus traversal among controls, how to do input validation, and the message box for user feedback.
- # overview
+ # Overview
 In this project, we will build a consumer loan assistant. You input a loan balance and yearly interest
 rate. You then have two options: (1) enter the desired number of payments and the loan assistant
 computes the monthly payment, or (2) enter the desired monthly payment and the loan assistant
@@ -55,3 +55,20 @@ interest and number of payments. Or, it can compute the number of payments, give
 interest, and payment. The text field representing the computed value is yellow. The button marked X
 is used to switch from one mode to the next. To exit the project, click the Exit button.
 
+# Enchanments
+Possible enhancements to the consumer loan assistant project include:
+
+➢ Many times, you know how much you can afford monthly and want to know how much you can
+borrow. Add a capability to compute balance, given interest, months and payment. Follow
+similar steps for computing the other parameters.
+
+➢ Add single payment processing capability so you can see how much the balance decreases
+each month and how much interest you are paying. Show results in the current text field or add
+other controls.
+
+➢ Add the capability to stop after a certain number of payments have been processed.
+
+➢ Add printing capability to see a complete repayment schedule for any loan you design. 
+
+➢ Add an output to the loan analysis that tells you what date your loan will be paid off based on
+the number of monthly payments.
